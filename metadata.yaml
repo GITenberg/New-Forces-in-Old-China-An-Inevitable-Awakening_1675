@@ -1,5 +1,5 @@
 _repo: New-Forces-in-Old-China-An-Inevitable-Awakening_1675
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'China -- Commerce'
 - !lcsh 'China -- Politics and government'
 - !lcsh 'Missions -- China'
+- GITenberg
 title: 'New Forces in Old China: An Inevitable Awakening'
 url: http://www.gutenberg.org/ebooks/1675
